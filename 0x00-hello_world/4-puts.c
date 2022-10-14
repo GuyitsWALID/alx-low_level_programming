@@ -4,11 +4,11 @@
 
 /**
  *
- *  * main - Entry point
+ *  * main - prints the phrase "programming is like building a multilingual puzzle"
  *
  *   *
  *
- *    * Return: Always 0 (Success)
+ *    * Return: Always 0 if exited properly, non-zero otherwise
  *
  *     */
 
